@@ -44,7 +44,7 @@ In this repository I will share the **source code** of all the projects of my Fi
 
 ## Team
 |  **Shivang Medhekar** | **Sohum Khot** |
-| :---: |:---:| :---:|
+| :---: |:---:|
 | [![Shivang Medhekar](https://avatars2.githubusercontent.com/u/69140290?s=460&u=5df35a82b6d2b6b7b876dfdc22d451c92d30a5c6&v=4)](https://github.com/shivangmedhekar)    | [![Sohum Khot](https://avatars0.githubusercontent.com/u/49232257?s=460&u=909a1b15cee566203a07ef8859148b6c508029d2&v=4)](https://github.com/sohumkhot) |
 | <a href="https://github.com/shivangmedhekar" target="_blank">`github.com/shivangmedhekar`</a> | <a href="https://github.com/sohumkhot" target="_blank">`github.com/sohumkhot`</a> |
 
