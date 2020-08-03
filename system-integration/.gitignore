@@ -1,0 +1,6 @@
+*.py[cod]
+.vscode
+build
+devel
+.DS_Store
+profile.tmp
