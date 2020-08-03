@@ -1,4 +1,4 @@
-# self-driving-car-fyp
+# Self Driving Car Simulation
 
 In this repository I will share the **source code** of all the projects of my Final Year Project of Self Driving Car.
 
