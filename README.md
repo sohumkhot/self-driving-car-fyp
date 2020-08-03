@@ -9,7 +9,7 @@ In this repository I will share the **source code** of all the projects of my Fi
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
  
-#### [M2 - Traffic Sign Classification](module_2_traffic_sign_classifier)
+#### [M2 - Traffic Sign Classification](module_2_traffic_sign_classfier)
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Keywords:** Deep Learning, TensorFlow, Computer Vision
  
