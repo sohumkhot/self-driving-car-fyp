@@ -11,11 +11,6 @@ This was tested and submitted against Simulation Environment.
 3. For training traffic light detector, [dataset](https://drive.google.com/file/d/0B-Eiyn-CUQtxdUZWMkFfQzdObUE/view?usp=sharing) was used with [TensorFlow Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_locally.md) to retrain [ssd_mobilenet_v1_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz). For this referred [this](https://github.com/coldKnight/TrafficLight_Detection-TensorFlowAPI) repository.
 
 
-![image1](examples/red_light_stop.png)
-![image2](examples/highway_run.png)
-![image3](examples/green_light_go.png)
-
-
 # Installation
 
 Please use **one** of the two installation options, either native **or** docker installation.
