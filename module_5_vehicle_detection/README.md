@@ -103,7 +103,7 @@ In order to optimize the performance of the classifier, I started the training w
 
 ### Computer Vision with Deep Learning
 
-#### 1. SSD (*Single Shot Multi-Box Detector*) network
+#### SSD (*Single Shot Multi-Box Detector*) network
 
 In order to solve the aforementioned problems, I decided to use a deep network to perform the detection, thus replacing the HOG+SVM pipeline. For this task employed the recently proposed  [SSD deep network](https://arxiv.org/pdf/1512.02325.pdf) for detection. This paved the way for several huge advantages:
  - the network performs detection and classification in a single pass, and natively goes in GPU (*is fast*)
@@ -113,9 +113,6 @@ In order to solve the aforementioned problems, I decided to use a deep network t
  
 The whole pipeline has been adapted to the make use of SSD network in file [`main_ssd.py`](main_ssd.py).
 
-
-
-#### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
 In a first phase while I was still using HOG+SVM, I implemented a heatmap to average detection results from successive frames. The heatmap was thresholded to a minimum value before labeling regions, so to remove the major part of false positive. This process in shown in the thumbnails on the left of the previous figure.
 
