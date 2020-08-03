@@ -5,7 +5,7 @@ In this repository I will share the **source code** of all the projects of my Fi
 --- 
 ## Table of Contents
 
-#### [M1 - Detecting Lane Lines](module_1_lane_finding_basic)
+#### [M1 - Detecting Lane Lines](module_1_lane_finding)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
  
@@ -25,7 +25,7 @@ In this repository I will share the **source code** of all the projects of my Fi
  - **Summary:** Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Implemented the same pipeline using a deep network to perform detection. Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
  - **Keywords:** Computer Vision, Deep Learning, OpenCV
  
-#### [M6 - MPC Control](module_6_MPC_control)
+#### [M6 - MPC Control](module_6_MPC-Control)
 - **Summary:** Implement an MPC controller for keeping the car on track by appropriately adjusting the steering angle. Differently from previously implemented PID controller, MPC controller has the ability to anticipate future events and can take control actions accordingly. Indeed, future time steps are taking into account while optimizing current time slot.
 - **Keywords:** C++, MPC Controller
 
